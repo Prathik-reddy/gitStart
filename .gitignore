@@ -1,1 +1,8 @@
+#comment in .gitignore file
+#blank folders are untracted in git
+#for ignoring single file 
 error.log
+#for ignoring particular file type
+*.log
+#for ingoring folders
+dir/
